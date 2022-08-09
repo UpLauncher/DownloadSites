@@ -1,0 +1,2 @@
+# DownloadSites
+このサイトはUpLauncherで使うダウンロードサイトです。
